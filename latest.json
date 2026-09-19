@@ -1,8 +1,8 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "apkUrl": "",
-  "sha256": "",
-  "notes": "Todavía no hay una versión pública publicada.",
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.10.0/Vehicly-AI.apk",
+  "sha256": "a9a9b60f8c1169a6b2b03ef7e4653dd3c56d5b7396e3c990fb00ab59c51cfdb5",
+  "notes": "Vehicly Codemagic: conserva modelos y dependencias entre builds",
   "mandatory": false
 }
