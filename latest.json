@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.12.0/Vehicly-AI.apk",
-  "sha256": "88b23ef955bf8d2a39e3e76206ba1fec2f86d21e18f64466c09f269e540b5563",
-  "notes": "Vehicly R12: preserva sugerencia original en correcciones sucesivas",
+  "versionCode": 16,
+  "versionName": "0.16.0",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.0/Vehicly-AI.apk",
+  "sha256": "b65cadeb6b39fa749125ae088f14c0d837a4c39e190207d784204d8c698f00cb",
+  "notes": "Vehicly R16: importa clasificador TFLite experimental con validación y abstención",
   "mandatory": false
 }
