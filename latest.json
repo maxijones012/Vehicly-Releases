@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.16.3",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.3/Vehicly-AI.apk",
-  "sha256": "5a6b78989c94aff8035eaf66f23d8e4d15ed0a66a3468bc484ac99f5717eaee2",
-  "notes": "Vehicly 0.16.3: autocomplete de marca y modelo en Revisar",
+  "versionCode": 21,
+  "versionName": "0.16.5",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.5/Vehicly-AI.apk",
+  "sha256": "c9258273ea0effc64364a982e16fe62c9a9c4e2b04efa1b7c2158d2ee609f836",
+  "notes": "Vehicly 0.16.5: prompt at verified-data training threshold and on newly imported visual model",
   "mandatory": false
 }
