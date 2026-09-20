@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16.0",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.0/Vehicly-AI.apk",
-  "sha256": "b65cadeb6b39fa749125ae088f14c0d837a4c39e190207d784204d8c698f00cb",
-  "notes": "Vehicly R16: importa clasificador TFLite experimental con validación y abstención",
+  "versionCode": 18,
+  "versionName": "0.16.2",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.2/Vehicly-AI.apk",
+  "sha256": "c30427f33adc331e6c73397e0f0f2e1392758b26a42aaf6c1d15e43b425ebd26",
+  "notes": "Fix Kotlin experimental foundation API opt-in for keyboard field scrolling",
   "mandatory": false
 }
