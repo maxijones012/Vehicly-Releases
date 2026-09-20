@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.16.6",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.6/Vehicly-AI.apk",
-  "sha256": "93c60a8f3d9bec6ef89529d0e5f6498c602c3bb4094e1adaeb27b71b2bf85673",
-  "notes": "Vehicly 0.16.6: search installed visual make/model across full gallery",
+  "versionCode": 23,
+  "versionName": "0.16.7",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.7/Vehicly-AI.apk",
+  "sha256": "8cb9153784d3bd115c248c6c0d4680db9d8f0de524e000755ba4f45dbdf030a0",
+  "notes": "Vehicly 0.16.7: per-model learning notices and targeted full-gallery prompt",
   "mandatory": false
 }
