@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.11.0/Vehicly-AI.apk",
-  "sha256": "158c860a472b00b226a57ade9f16b29314b45d31a6c3c42b6c053d64328a9530",
-  "notes": "Vehicly R11: actualiza etiqueta de versión",
+  "versionCode": 12,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.12.0/Vehicly-AI.apk",
+  "sha256": "88b23ef955bf8d2a39e3e76206ba1fec2f86d21e18f64466c09f269e540b5563",
+  "notes": "Vehicly R12: preserva sugerencia original en correcciones sucesivas",
   "mandatory": false
 }
