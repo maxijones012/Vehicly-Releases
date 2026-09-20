@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.16.2",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.2/Vehicly-AI.apk",
-  "sha256": "c30427f33adc331e6c73397e0f0f2e1392758b26a42aaf6c1d15e43b425ebd26",
-  "notes": "Fix Kotlin experimental foundation API opt-in for keyboard field scrolling",
+  "versionCode": 19,
+  "versionName": "0.16.3",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.3/Vehicly-AI.apk",
+  "sha256": "5a6b78989c94aff8035eaf66f23d8e4d15ed0a66a3468bc484ac99f5717eaee2",
+  "notes": "Vehicly 0.16.3: autocomplete de marca y modelo en Revisar",
   "mandatory": false
 }
