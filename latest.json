@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.16.12",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.12/Vehicly-AI.apk",
-  "sha256": "6d0c3de2faee46dd0c0ac0406872f3343b0fe5c29e80645df3b0b15bafeaefa5",
-  "notes": "Vehicly 0.16.12: automatic grouped review and separate Buscar learning workspace",
+  "versionCode": 30,
+  "versionName": "0.16.14",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.14/Vehicly-AI.apk",
+  "sha256": "448857050da9475f773b75cb70a2feaa6f85976e91692c80c76cb47d11fcf957",
+  "notes": "Route newly learned vehicle search to Aprendizaje instead of Ajustes",
   "mandatory": false
 }
