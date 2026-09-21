@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.16.9",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.9/Vehicly-AI.apk",
-  "sha256": "904a428fd59afda5cbe935f24c6bc5f4d3fd3396e0e2bb9721bb92f3709b4fa3",
-  "notes": "Vehicly 0.16.9: fast local search using saved vectors; full gallery optional",
+  "versionCode": 27,
+  "versionName": "0.16.11",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.11/Vehicly-AI.apk",
+  "sha256": "f8368ac0e589767af07b873d704de9b2972ae65f15d90efc2ca398c13697c75c",
+  "notes": "Fix Kotlin forward references in group review callbacks to refresh and openFocusedResults",
   "mandatory": false
 }
