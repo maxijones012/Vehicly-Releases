@@ -2,7 +2,7 @@
   "versionCode": 30,
   "versionName": "0.16.14",
   "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.14/Vehicly-AI.apk",
-  "sha256": "448857050da9475f773b75cb70a2feaa6f85976e91692c80c76cb47d11fcf957",
-  "notes": "Route newly learned vehicle search to Aprendizaje instead of Ajustes",
+  "sha256": "192d908d7239e13bf71eac00c7e0ffdbf1fb16296133af66343bea897ef75152",
+  "notes": "Remember manual same-vehicle selections when opening linked photo groups",
   "mandatory": false
 }
