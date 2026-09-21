@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.16.11",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.11/Vehicly-AI.apk",
-  "sha256": "f8368ac0e589767af07b873d704de9b2972ae65f15d90efc2ca398c13697c75c",
-  "notes": "Fix Kotlin forward references in group review callbacks to refresh and openFocusedResults",
+  "versionCode": 28,
+  "versionName": "0.16.12",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.12/Vehicly-AI.apk",
+  "sha256": "6d0c3de2faee46dd0c0ac0406872f3343b0fe5c29e80645df3b0b15bafeaefa5",
+  "notes": "Vehicly 0.16.12: automatic grouped review and separate Buscar learning workspace",
   "mandatory": false
 }
