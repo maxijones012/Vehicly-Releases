@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.16.15",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.15/Vehicly-AI.apk",
-  "sha256": "1536d347fe6985fb6048dfa81113215183e9a47a28db5eb5aad16e16bed72535",
-  "notes": "Release Vehicly 0.16.15 with multi-photo review linking and resilient publishing",
+  "versionCode": 32,
+  "versionName": "0.16.16",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.16/Vehicly-AI.apk",
+  "sha256": "dfd7679d11a742d8000fd591d96a5f1c42fcd542678cadfca9806c2406847f55",
+  "notes": "Save manual vehicle links without blocking dialog on whole-library regrouping",
   "mandatory": false
 }
