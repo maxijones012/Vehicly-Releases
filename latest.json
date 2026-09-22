@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.16.20",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.20/Vehicly-AI.apk",
-  "sha256": "b8d54ed3d3eddf36be37301b431c860c39ef76eb8537e9710b859033eb909b85",
-  "notes": "Fix Kotlin generic assignment syntax in optimized vehicle group iterator",
+  "versionCode": 39,
+  "versionName": "0.16.23",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.23/Vehicly-AI.apk",
+  "sha256": "e11d8142d8c759953b77f3a9d106210d08da296b036de7ced9d4a64abd7ce88d",
+  "notes": "R4: test disjoint holdout evaluation, minimum support, corrected-label rejection and abstention",
   "mandatory": false
 }
