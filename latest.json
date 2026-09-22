@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.16.23",
-  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.23/Vehicly-AI.apk",
-  "sha256": "e11d8142d8c759953b77f3a9d106210d08da296b036de7ced9d4a64abd7ce88d",
-  "notes": "R4: test disjoint holdout evaluation, minimum support, corrected-label rejection and abstention",
+  "versionCode": 40,
+  "versionName": "0.16.24",
+  "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.24/Vehicly-AI.apk",
+  "sha256": "4cf64cac2ffeb66a64abc1fcd49fd3251b3d4fa858d4b0d48b0df78b62eddc1c",
+  "notes": "Prepare Vehicly 0.16.24 with detailed neural-training preflight and targeted ReID repair",
   "mandatory": false
 }
