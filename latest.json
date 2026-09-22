@@ -2,7 +2,7 @@
   "versionCode": 40,
   "versionName": "0.16.24",
   "apkUrl": "https://github.com/maxijones012/Vehicly-Releases/releases/download/v0.16.24/Vehicly-AI.apk",
-  "sha256": "909c131fec7150ef6b972eaf08e831323889feb13ffa661429623244d037817e",
-  "notes": "Fix two unbound labels references in progressive warm-start",
+  "sha256": "6002f77cac261871bd3f861e8108515a25cc4b74e38f89588f2605a58305a0c6",
+  "notes": "Document explanatory per-model R3 validation and R4 holdout diagnostics",
   "mandatory": false
 }
